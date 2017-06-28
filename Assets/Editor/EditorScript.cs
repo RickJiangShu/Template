@@ -1,6 +1,6 @@
 ﻿/*
  * Author:  Rick
- * Date:    $time$
+ * Create:  $time$
  * Email:   rickjiangshu@gmail.com
  * Follow:  https://github.com/RickJiangShu
  */
